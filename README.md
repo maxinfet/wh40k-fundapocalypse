@@ -42,7 +42,7 @@ Great, thank you! Now, you have some options:
 
 * [BattleScribe homepage][]
 * [BattleScribe Data on Appspot][]
-* [Getting Started wiki][]
+<!-- * [Getting Started wiki][] -->
 
 [Report it on Appspot]: http://battlescribedata.appspot.com/#/repo/TemplateDataRepo
 [Open Issue directly]: https://github.com/normanthesquid/wh40k-fundapocalypse/issues
